@@ -2,8 +2,7 @@
 
 
 ***
-### 
-Make a desktop assistant using Python as its backend
+### Make a desktop assistant using Python as its backend
 
 
 
