@@ -2,7 +2,8 @@
 
 
 ***
-### Question
+### 
+Make a desktop assistant using Python as its backend
 
 
 
