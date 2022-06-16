@@ -1,5 +1,6 @@
 GAME OF CODES
 How to Register in GAME OF CODES
+
 Step1: Register yourself in our website
 
 Hack2skill Website
